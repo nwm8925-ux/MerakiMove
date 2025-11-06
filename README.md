@@ -44,6 +44,7 @@ pip install meraki
 
 KNOWN LIMITATIONS:
 MerakiCloud Authentication Users
+
 Captive portal image customization
 
 
