@@ -42,6 +42,11 @@ pip install meraki
 8: Wait, make some coffee, and enjoy! Migration may take a bit depending on how many devices and networks you have created in your source org. 
 
 
+KNOWN LIMITATIONS:
+MerakiCloud Authentication Users
+Captive portal image customization
+
+
 
 
 
